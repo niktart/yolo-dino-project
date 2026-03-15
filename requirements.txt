@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+matplotlib
+opencv-python
+pyyaml
+tqdm
+scikit-learn
+pillow
+
+# Для стратифицированного разбиения
+iterative-stratification
+
+# Для аугментации
+albumentations
+
+# Для моделей
+ultralytics
+torch
+torchvision
+transformers
+
+# Grounding DINO (устанавливается отдельно)
+# git+https://github.com/IDEA-Research/GroundingDINO.git

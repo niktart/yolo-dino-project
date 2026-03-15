@@ -1,4 +1,4 @@
-# Курсовая работа: [Название твоей темы]
+# Курсовая работа: [Open world object detection with yolo-world and grounding dino]
 
 ## 📓 Google Colab ноутбуки
 
@@ -6,26 +6,6 @@
 
 | Ноутбук | Описание | Открыть в Colab |
 |---------|----------|-----------------|
-| **01 Предобработка данных** | Загрузка и очистка данных, разведочный анализ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/твой_username/course_work/blob/main/01_data_preprocessing.ipynb) |
-| **02 Обучение модели** | Построение и обучение нейронной сети | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/твой_username/course_work/blob/main/02_model_training.ipynb) |
-| **03 Оценка результатов** | Визуализация метрик и анализ результатов | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/твой_username/course_work/blob/main/03_evaluation.ipynb) |
-
-## 📁 Структура проекта
-- `01_data_preprocessing.ipynb` - предобработка данных
-- `02_model_training.ipynb` - обучение модели
-- `03_evaluation.ipynb` - оценка результатов
-- `data/` - папка с данными (если есть)
-- `models/` - сохраненные модели (если есть)
-
-## 🚀 Быстрый старт
-1. Нажми на любую кнопку "Open in Colab" выше
-2. В Colab выбери `Runtime` → `Change runtime type` → выбери GPU
-3. Выполняй ячейки последовательно
-
-## 📦 Зависимости
-Основные библиотеки:
-- Python 3.x
-- TensorFlow / PyTorch
-- pandas, numpy
-- matplotlib, seaborn
-- scikit-learn
+| **01 Все про groudning dino** | Датасеты, обучение, инференс, доля изображений | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/твой_username/course_work/blob/main/1final_gr_dino (3).ipynb.ipynb) |
+| **02 Оснавное** | Датасеты, разные запуски обучения yolo, инференс, анализ ошибок, доля изображений, основные таблицы | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/твой_username/course_work/blob/main/1work (4).ipynb) |
+| **03 Модульная структура** | Пример выполнения кода этого репозиторий | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/твой_username/course_work/blob/main/new_module_version (1).ipynb) |
